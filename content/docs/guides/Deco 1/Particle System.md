@@ -2,6 +2,9 @@
 title: Particle System
 weight: 512
 date: 2023-11-01
+authors:
+- komatic5
+- naem.less
 contributors:
 - komatic5
 - naem.less

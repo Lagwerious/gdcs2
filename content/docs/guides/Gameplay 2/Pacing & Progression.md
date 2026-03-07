@@ -2,6 +2,8 @@
 title: Pacing & Progression
 weight: 707
 date: 2023-06-26
+authors:
+- komatic5
 contributors:
 - creeperiv
 - komatic5

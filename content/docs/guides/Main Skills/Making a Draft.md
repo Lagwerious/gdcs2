@@ -1,6 +1,9 @@
 ---
 title: Making a Draft
 weight: 203
+date: 2025-03-25
+authors:
+- komatic5
 contributors:
 - komatic5
 - sparktwee

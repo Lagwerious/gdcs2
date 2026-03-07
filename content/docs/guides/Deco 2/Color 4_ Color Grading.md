@@ -2,6 +2,8 @@
 title: Color 4 (Color Grading)
 weight: 804
 date: 2024-08-15
+authors:
+- galofuf
 contributors:
 - .tv_box.
 - galofuf

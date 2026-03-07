@@ -2,6 +2,8 @@
 title: BPM
 weight: 316
 date: 2024-01-21
+authors:
+- myceliumdev
 contributors:
 - komatic5
 - myceliumdev

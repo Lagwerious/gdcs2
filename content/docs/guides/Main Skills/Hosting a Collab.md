@@ -1,6 +1,9 @@
 ---
 title: Hosting a Collab
 weight: 214
+date: 2023-09-30
+authors:
+- komatic5
 contributors:
 - komatic5
 draft: false

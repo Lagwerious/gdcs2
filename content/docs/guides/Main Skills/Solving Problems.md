@@ -1,6 +1,9 @@
 ---
 title: Solving Problems
 weight: 205
+date: 2024-07-31
+authors:
+- komatic5
 contributors:
 - komatic5
 - sparktwee

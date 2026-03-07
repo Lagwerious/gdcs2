@@ -2,6 +2,8 @@
 title: Groups
 weight: 304
 date: 2024-02-11
+authors:
+- tdp9
 contributors:
 - __madzz__
 - tdp9

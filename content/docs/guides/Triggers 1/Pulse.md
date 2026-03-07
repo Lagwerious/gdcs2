@@ -2,6 +2,8 @@
 title: Pulse
 weight: 303
 date: 2024-01-08
+authors:
+- electrifyxd
 contributors:
 - electrifyxd
 - Unknown

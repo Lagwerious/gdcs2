@@ -2,6 +2,8 @@
 title: Making Optimized Setups
 weight: 615
 date: 2025-03-17
+authors:
+- theibra
 contributors:
 - chuckolate
 - theibra

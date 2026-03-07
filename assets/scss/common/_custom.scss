@@ -9,8 +9,15 @@ img.emote {
 
 img.smallemote {
     display: inline;
-    width: 1rem;
+    width: 1.35rem;
     height: auto;
+    margin-left: 2px;
+    margin-bottom: 4px;
+    transition: transform 0.2s;
+}
+
+img.smallemote:hover {
+    transform: scale(1.1);
 }
 
 img.largeemote {
@@ -21,10 +28,16 @@ img.largeemote {
 
 img.headingemote {
     display: inline;
-    width: 4rem;
-    height: auto;
+    height: 4rem;
+    width: auto;
     margin: -0.2rem auto 0 auto;
     padding-bottom: 0.3rem;
+}
+
+h2 img.headingemote {
+    height: 3rem;
+    position: relative;
+    top: 0.07rem;
 }
 
 img {

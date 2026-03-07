@@ -2,6 +2,8 @@
 title: The Trigger Process
 weight: 347
 date: 2026-02-14
+authors:
+- komatic5
 contributors:
 - komatic5
 - sparktwee

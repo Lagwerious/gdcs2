@@ -1,9 +1,13 @@
 ---
 title: Getting Ideas
 weight: 201
+date: 2023-03-09
+authors:
+- sparktwee
 contributors:
 - sparktwee
 - vexilo5
+- komatic5
 draft: false
 ---
 

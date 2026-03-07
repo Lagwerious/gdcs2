@@ -2,6 +2,8 @@
 title: Time, Time Event, & Time Control
 weight: 346
 date: 2024-02-11
+authors:
+- naem.less
 contributors:
 - etherail
 - naem.less

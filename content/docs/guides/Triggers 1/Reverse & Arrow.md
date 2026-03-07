@@ -2,6 +2,9 @@
 title: Reverse & Arrow
 weight: 328
 date: 2024-02-06
+authors:
+- .eyz.
+- naem.less
 contributors:
 - .eyz.
 - naem.less

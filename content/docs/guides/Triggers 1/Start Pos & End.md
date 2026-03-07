@@ -2,7 +2,11 @@
 title: Start Pos & End
 weight: 327
 date: 2024-03-11
+authors:
+- calibratorworks
+- print6165
 contributors:
+- calibratorworks
 - komatic5
 - naem.less
 - print6165

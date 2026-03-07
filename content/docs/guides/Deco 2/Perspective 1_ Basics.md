@@ -2,6 +2,8 @@
 title: Perspective 1 (Basics)
 weight: 820
 date: 2023-05-21
+authors:
+- komatic5
 contributors:
 - kde__
 - komatic5

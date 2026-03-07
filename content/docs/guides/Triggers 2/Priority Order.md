@@ -2,6 +2,9 @@
 title: Priority Order
 weight: 603
 date: 2024-09-17
+authors:
+- theibra
+- typexleta
 contributors:
 - notamoderatr
 - theibra

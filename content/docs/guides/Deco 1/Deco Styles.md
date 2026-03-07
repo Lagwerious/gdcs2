@@ -1,7 +1,9 @@
 ---
 title: Deco Styles
 weight: 111
-date: 2022-11-17
+date: 2023-11-01
+authors:
+- komatic5
 contributors:
 - kde__
 - komatic5

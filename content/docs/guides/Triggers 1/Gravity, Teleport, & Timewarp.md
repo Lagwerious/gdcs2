@@ -2,6 +2,9 @@
 title: Gravity, Teleport, & Timewarp
 weight: 330
 date: 2024-07-19
+authors:
+- notamoderatr
+- tdp9
 contributors:
 - notamoderatr
 - tdp9

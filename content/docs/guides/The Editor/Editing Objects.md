@@ -1,6 +1,14 @@
 ---
 title: Editing Objects
 weight: 102
+date: 2024-02-25
+authors:
+- komatic5
+- illusion2
+contributors:
+- komatic5
+- illusion2
+- sparktwee
 draft: false
 
 seo:

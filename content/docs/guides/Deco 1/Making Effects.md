@@ -2,6 +2,8 @@
 title: Making Effects
 weight: 512
 date: 2024-09-18
+authors:
+- illusion2
 contributors:
 - chuckolate
 - illusion2

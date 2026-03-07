@@ -2,6 +2,8 @@
 title: Light 3 (Value)
 weight: 808
 date: 2023-12-15
+authors:
+- lifecheck
 contributors:
 - lifecheck
 - notamoderatr

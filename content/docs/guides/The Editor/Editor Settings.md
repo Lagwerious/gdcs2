@@ -1,7 +1,11 @@
 ---
 title: Editor Settings
 weight: 104
+date: 2024-05-15
+authors:
+- tdp9
 contributors:
+- tdp9
 - sparktwee
 draft: false
 

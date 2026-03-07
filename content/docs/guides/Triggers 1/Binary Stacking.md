@@ -2,6 +2,8 @@
 title: Binary Stacking
 weight: 347
 date: 2023-08-14
+authors:
+- komatic5
 contributors:
 - komatic5
 - livelaughluvv

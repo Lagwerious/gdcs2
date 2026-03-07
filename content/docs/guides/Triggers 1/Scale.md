@@ -2,6 +2,8 @@
 title: Scale
 weight: 310
 date: 2024-02-04
+authors:
+- .eyz.
 contributors:
 - .eyz.
 - sparktwee

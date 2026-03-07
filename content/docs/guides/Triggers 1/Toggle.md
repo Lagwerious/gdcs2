@@ -2,6 +2,8 @@
 title: Toggle
 weight: 306
 date: 2024-01-08
+authors:
+- komatic5
 contributors:
 - komatic5
 draft: false

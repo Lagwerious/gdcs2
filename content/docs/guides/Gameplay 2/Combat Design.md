@@ -2,6 +2,8 @@
 title: Combat Design
 weight: 720
 date: 2024-09-06
+authors:
+- illusion2
 contributors:
 - chuckolate
 - illusion2

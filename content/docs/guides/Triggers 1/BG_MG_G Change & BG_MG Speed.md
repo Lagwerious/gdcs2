@@ -2,6 +2,8 @@
 title: BG/MG/G Change & BG/MG Speed
 weight: 347
 date: 2024-01-21
+authors:
+- .eyz.
 contributors:
 - komatic5
 - .eyz.

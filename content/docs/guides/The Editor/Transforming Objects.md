@@ -1,6 +1,9 @@
 ---
 title: Transforming Objects
 weight: 115
+date: 2024-01-07
+authors:
+- komatic5
 contributors:
 - komatic5
 - vexilo5

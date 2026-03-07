@@ -2,6 +2,8 @@
 title: Swing
 weight: 421
 date: 2024-10-31
+authors:
+- kriticsoul
 contributors:
 - chuckolate
 - kriticsoul

@@ -1,9 +1,14 @@
 ---
 title: Staying Patient
 weight: 209
+date: 2023-03-09
+authors:
+- sparktwee
+- calibratorworks
 contributors:
 - komatic5
 - sparktwee
+- calibratorworks
 draft: false
 ---
 

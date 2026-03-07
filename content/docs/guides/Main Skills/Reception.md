@@ -1,9 +1,13 @@
 ---
 title: Reception
 weight: 217
+date: 2024-08-30
+authors:
+- sparktwee
 contributors:
 - sparktwee
 - psytrancegd
+- colon
 draft: false
 ---
 

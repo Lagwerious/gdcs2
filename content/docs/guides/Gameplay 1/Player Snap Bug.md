@@ -2,6 +2,9 @@
 title: Player Snap Bug
 weight: 412
 date: 2023-11-30
+authors:
+- joe_white
+- mateussdev
 contributors:
 - .tv_box.
 - joe_white

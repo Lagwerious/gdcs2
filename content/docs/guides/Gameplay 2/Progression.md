@@ -2,6 +2,8 @@
 title: Progression
 weight: 722
 date: 2023-06-26
+authors:
+- komatic5
 contributors:
 - halfcookedramen
 - komatic5

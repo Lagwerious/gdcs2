@@ -2,6 +2,8 @@
 title: Alpha
 weight: 305
 date: 2024-01-08
+authors:
+- electrifyxd
 contributors:
 - electrifyxd
 - crepeerpro244

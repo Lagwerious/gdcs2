@@ -2,6 +2,9 @@
 title: Low Detail Mode
 weight: 519
 date: 2025-06-29
+authors:
+- komatic5
+- sparktwee
 contributors:
 - averageundertalefan
 - creeperiv

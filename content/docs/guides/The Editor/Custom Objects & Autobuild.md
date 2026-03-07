@@ -1,6 +1,9 @@
 ---
 title: Custom Objects & Autobuild
 weight: 114
+date: 2024-07-16
+authors:
+- tdp9
 contributors:
 - notamoderatr
 - tdp9

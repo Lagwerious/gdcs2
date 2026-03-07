@@ -2,6 +2,8 @@
 title: UI & Link Visible
 weight: 347
 date: 2024-01-21
+authors:
+- delts1550
 contributors:
 - delts1550
 - .eyz.

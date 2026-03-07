@@ -2,6 +2,8 @@
 title: Follow Through & Overlapping Action
 weight: 811
 date: 2025-04-30
+authors:
+- .asandboxer
 contributors:
 - .asandboxer
 - sparktwee

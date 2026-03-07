@@ -2,6 +2,8 @@
 title: Creating Gameplay
 weight: 406
 date: 2024-11-30
+authors:
+- mesoionosphere
 contributors:
 - chuckolate
 - mesoionosphere

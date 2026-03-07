@@ -1,6 +1,9 @@
 ---
 title: Playtesting
 weight: 213
+date: 2023-03-14
+authors:
+- tdp9
 contributors:
 - sparktwee
 - tdp9

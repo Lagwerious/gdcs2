@@ -2,6 +2,8 @@
 title: Color 5 (Human Perception)
 weight: 805
 date: 2024-05-31
+authors:
+- skytriz
 contributors:
 - etherail
 - skytriz

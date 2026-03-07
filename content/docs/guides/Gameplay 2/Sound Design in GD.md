@@ -2,6 +2,8 @@
 title: Sound Design in GD
 weight: 713
 date: 2024-09-06
+authors:
+- electrifyxd
 contributors:
 - electrifyxd
 - psytrancegd

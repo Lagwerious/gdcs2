@@ -2,6 +2,8 @@
 title: Color 2 (Using Colors)
 weight: 802
 date: 2023-11-30
+authors:
+- kde__
 contributors:
 - .tv_box.
 - kde__

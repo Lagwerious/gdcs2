@@ -2,6 +2,8 @@
 title: Using Gamemodes
 weight: 401
 date: 2025-03-01
+authors:
+- illusion2
 contributors:
 - komatic5
 - illusion2

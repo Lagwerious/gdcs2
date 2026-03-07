@@ -2,6 +2,8 @@
 title: Stacking
 weight: 347
 date: 2023-04-04
+authors:
+- komatic5
 contributors:
 - komatic5
 - kde__

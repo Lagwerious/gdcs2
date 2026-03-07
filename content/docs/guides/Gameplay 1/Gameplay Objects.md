@@ -1,6 +1,10 @@
 ---
 title: Gameplay Objects
 weight: 402
+date: 2025-01-16
+authors:
+- xplode09
+- sparktwee
 contributors:
 - sparktwee
 - xplode09

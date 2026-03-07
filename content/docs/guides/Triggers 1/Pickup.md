@@ -2,6 +2,8 @@
 title: Pickup
 weight: 343
 date: 2024-01-19
+authors:
+- nailed_bread
 contributors:
 - nailed_bread
 - __madzz__

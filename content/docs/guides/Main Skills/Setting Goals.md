@@ -1,8 +1,11 @@
 ---
 title: Setting Goals
 weight: 207
+date: 2023-09-30
+authors:
+- nikobik0
 contributors:
-- niko
+- nikobik0
 - notamoderatr
 draft: false
 ---

@@ -2,6 +2,8 @@
 title: Reset
 weight: 347
 date: 2024-01-16
+authors:
+- delts1550
 contributors:
 - delts1550
 - sparktwee

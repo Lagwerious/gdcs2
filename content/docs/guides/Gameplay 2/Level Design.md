@@ -2,6 +2,8 @@
 title: Level Design
 weight: 718
 date: 2025-01-14
+authors:
+- intercomprehensible
 contributors:
 - everedeck
 - komatic5

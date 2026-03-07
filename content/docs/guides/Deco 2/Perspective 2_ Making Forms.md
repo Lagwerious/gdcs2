@@ -2,6 +2,9 @@
 title: Perspective 2 (Making Forms)
 weight: 821
 date: 2023-11-01
+authors:
+- komatic5
+- chunlv1
 contributors:
 - komatic5
 - chunlv1

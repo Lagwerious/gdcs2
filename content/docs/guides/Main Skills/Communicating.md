@@ -1,6 +1,9 @@
 ---
 title: Communicating
 weight: 217
+date: 2023-09-16
+authors:
+- komatic5
 contributors:
 - komatic5
 draft: false

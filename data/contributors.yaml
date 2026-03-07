@@ -313,8 +313,8 @@
   displayname: leotorol
   useDisplay: false
 
-- ID: ???
-  username: niko
+- ID: "771610790024839188"
+  username: nikobik0
   displayname: niko
   useDisplay: false
 
@@ -322,3 +322,8 @@
   username: komatic5
   displayname: koma5
   useDisplay: false
+
+- ID: "309104296362901505"
+  username: colon
+  displayname: Colon
+  useDisplay: true

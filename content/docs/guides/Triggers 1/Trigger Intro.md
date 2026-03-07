@@ -2,6 +2,8 @@
 title: Trigger Intro
 weight: 301
 date: 2025-06-05
+authors:
+- komatic5
 contributors:
 - komatic5
 - Unknown

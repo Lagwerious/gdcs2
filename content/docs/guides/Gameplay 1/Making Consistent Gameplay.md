@@ -2,6 +2,8 @@
 title: Making Consistent Gameplay
 weight: 415
 date: 2025-01-16
+authors:
+- e.clypse.
 contributors:
 - e.clypse.
 - psytrancegd

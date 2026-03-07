@@ -2,6 +2,8 @@
 title: Item Edit, Comp, & Pers
 weight: 345
 date: 2023-12-30
+authors:
+- komatic5
 contributors:
 - komatic5
 - vexilo5

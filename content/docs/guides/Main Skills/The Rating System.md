@@ -1,6 +1,9 @@
 ---
 title: The Rating System
 weight: 217
+date: 2024-05-31
+authors:
+- sparktwee
 contributors:
 - notamoderatr
 - sparktwee

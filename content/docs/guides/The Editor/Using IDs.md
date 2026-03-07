@@ -1,6 +1,9 @@
 ---
 title: Using IDs
 weight: 117
+date: 2025-03-31
+authors:
+- sparktwee
 contributors:
 - infernuz_bunni
 - komatic5

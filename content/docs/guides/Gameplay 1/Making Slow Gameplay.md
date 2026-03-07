@@ -2,6 +2,8 @@
 title: Making Slow Gameplay
 weight: 417
 date: 2023-07-25
+authors:
+- komatic5
 contributors:
 - halfcookedramen
 - komatic5

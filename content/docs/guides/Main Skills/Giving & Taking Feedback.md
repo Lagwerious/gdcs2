@@ -1,6 +1,9 @@
 ---
 title: Giving & Taking Feedback
 weight: 215
+date: 2023-03-14
+authors:
+- Unknown
 contributors:
 - etherail
 - Unknown

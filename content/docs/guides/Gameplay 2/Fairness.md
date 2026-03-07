@@ -2,6 +2,8 @@
 title: Fairness
 weight: 709
 date: 2024-07-31
+authors:
+- tdp9
 contributors:
 - notamoderatr
 - tdp9

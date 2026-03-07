@@ -2,6 +2,9 @@
 title: Randomizers (2.1)
 weight: 620
 date: 2024-04-19
+authors:
+- infernuz_bunni
+- typexleta
 contributors:
 - etherail
 - infernuz_bunni

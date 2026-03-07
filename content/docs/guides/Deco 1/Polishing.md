@@ -1,6 +1,9 @@
 ---
 title: Polishing
 weight: 508
+date: 2023-03-10
+authors:
+- matty2003
 contributors:
 - matty2003
 - Unknown

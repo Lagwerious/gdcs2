@@ -1,6 +1,9 @@
 ---
 title: Getting Inspired
 weight: 208
+date: 2023-04-19
+authors:
+- tdp9
 contributors:
 - komatic5
 - tdp9

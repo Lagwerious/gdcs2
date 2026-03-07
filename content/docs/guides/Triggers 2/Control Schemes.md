@@ -1,6 +1,9 @@
 ---
 title: Control Schemes
 weight: 616
+date: 2026-03-05
+authors:
+- theibra
 contributors:
 - theibra
 draft: false

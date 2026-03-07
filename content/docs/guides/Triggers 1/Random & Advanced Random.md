@@ -2,6 +2,8 @@
 title: Random & Advanced Random
 weight: 340
 date: 2023-04-07
+authors:
+- themilkcat_tmc
 contributors:
 - komatic5
 - themilkcat_tmc

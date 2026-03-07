@@ -2,6 +2,8 @@
 title: Movement Design
 weight: 719
 date: 2024-11-30
+authors:
+- Interestex
 contributors:
 - Interestex
 - illusion2

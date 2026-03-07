@@ -2,6 +2,8 @@
 title: Bossfight Design
 weight: 721
 date: 2024-09-18
+authors:
+- illusion2
 contributors:
 - illusion2
 - psytrancegd

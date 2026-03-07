@@ -2,6 +2,8 @@
 title: Light 5 (Texture)
 weight: 810
 date: 2025-03-17
+authors:
+- skytriz
 contributors:
 - komatic5
 - skytriz

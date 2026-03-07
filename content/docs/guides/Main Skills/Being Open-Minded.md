@@ -1,6 +1,9 @@
 ---
 title: Being Open-Minded
 weight: 210
+date: 2023-03-16
+authors:
+- halfcookedramen
 contributors:
 - halfcookedramen
 - kde__

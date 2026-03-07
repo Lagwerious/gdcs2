@@ -1,6 +1,9 @@
 ---
 title: Object Types
 weight: 108
+date: 2024-04-28
+authors:
+- illusion2
 contributors:
 - sparktwee
 - illusion2

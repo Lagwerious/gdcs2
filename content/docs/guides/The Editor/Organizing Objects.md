@@ -1,6 +1,12 @@
 ---
 title: Organizing Objects
 weight: 103
+date: 2024-04-03
+authors:
+- tdp9
+contributors:
+- tdp9
+- .tv_box.
 draft: false
 
 seo:

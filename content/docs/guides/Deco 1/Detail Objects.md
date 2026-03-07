@@ -1,6 +1,9 @@
 ---
 title: Detail Objects
 weight: 503
+date: 2024-01-14
+authors:
+- aquarware
 contributors:
 - aquarware
 - komatic5

@@ -2,6 +2,8 @@
 title: Using Remap Properties
 weight: 604
 date: 2024-07-31
+authors:
+- theibra
 contributors:
 - komatic5
 - theibra

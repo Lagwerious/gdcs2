@@ -2,6 +2,8 @@
 title: Mechanics 5 (Limitations & Strategy)
 weight: 705
 date: 2024-10-15
+authors:
+- illusion2
 contributors:
 - illusion2
 - psytrancegd

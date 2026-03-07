@@ -2,6 +2,8 @@
 title: Making Structures
 weight: 418
 date: 2023-07-12
+authors:
+- komatic5
 contributors:
 - etherail
 - komatic5

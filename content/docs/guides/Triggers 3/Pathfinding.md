@@ -2,6 +2,8 @@
 title: Pathfinding
 weight: 911
 date: 2024-09-30
+authors:
+- furorem
 contributors:
 - furorem
 - komatic5

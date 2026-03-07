@@ -2,6 +2,8 @@
 title: Making Logic Gates
 weight: 608
 date: 2024-09-16
+authors:
+- tanhR
 contributors:
 - chuckolate
 - tanhR

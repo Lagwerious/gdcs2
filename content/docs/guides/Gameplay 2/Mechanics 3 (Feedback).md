@@ -2,6 +2,8 @@
 title: Mechanics 3 (Feedback)
 weight: 703
 date: 2025-03-01
+authors:
+- illusion2
 contributors:
 - illusion2
 - sparktwee

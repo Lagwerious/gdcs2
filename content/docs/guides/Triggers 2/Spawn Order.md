@@ -2,6 +2,8 @@
 title: Spawn Order
 weight: 602
 date: 2024-04-18
+authors:
+- typexleta
 contributors:
 - komatic5
 - typexleta

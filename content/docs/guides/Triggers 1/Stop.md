@@ -2,6 +2,8 @@
 title: Stop
 weight: 341
 date: 2023-04-30
+authors:
+- tdp9
 contributors:
 - halfcookedramen
 - tdp9

@@ -1,6 +1,10 @@
 ---
 title: Having a Growth Mindset
 weight: 211
+date: 2023-03-09
+authors:
+- creeperiv
+- leotorol
 contributors:
 - creeperiv
 - leotorol

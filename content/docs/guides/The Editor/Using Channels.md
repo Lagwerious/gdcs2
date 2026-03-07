@@ -1,6 +1,9 @@
 ---
 title: Using Channels
 weight: 118
+date: 2024-01-15
+authors:
+- illusion2
 contributors:
 - illusion2
 - vexilo5

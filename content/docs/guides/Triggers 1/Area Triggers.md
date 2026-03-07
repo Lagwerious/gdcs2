@@ -2,6 +2,8 @@
 title: Area Triggers
 weight: 318
 date: 2024-04-03
+authors:
+- naem.less
 contributors:
 - komatic5
 - naem.less

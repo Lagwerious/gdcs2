@@ -1,6 +1,9 @@
 ---
 title: Planning a Level
 weight: 202
+date: 2025-03-25
+authors:
+- komatic5
 contributors:
 - komatic5
 draft: false

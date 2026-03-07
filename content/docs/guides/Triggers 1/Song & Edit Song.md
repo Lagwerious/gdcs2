@@ -2,6 +2,8 @@
 title: Song & Edit Song
 weight: 314
 date: 2024-01-07
+authors:
+- electrifyxd
 contributors:
 - .tv_box.
 - electrifyxd

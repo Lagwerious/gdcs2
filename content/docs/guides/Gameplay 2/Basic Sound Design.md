@@ -2,6 +2,8 @@
 title: Basic Sound Design
 weight: 714
 date: 2025-03-01
+authors:
+- electrifyxd
 contributors:
 - electrifyxd
 - notamoderatr

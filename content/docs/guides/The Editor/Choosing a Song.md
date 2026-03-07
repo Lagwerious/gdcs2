@@ -1,7 +1,14 @@
 ---
 title: Choosing a Song
 weight: 105
+date: 2024-01-30
+authors:
+- tdp9
+- print6165
 contributors:
+- tdp9
+- .tv_box.
+- print6165
 - halfcookedramen
 - komatic5
 draft: false

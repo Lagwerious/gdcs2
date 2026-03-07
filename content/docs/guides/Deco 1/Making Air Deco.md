@@ -2,6 +2,8 @@
 title: Making Air Deco
 weight: 510
 date: 2023-03-18
+authors:
+- komatic5
 contributors:
 - komatic5
 draft: false

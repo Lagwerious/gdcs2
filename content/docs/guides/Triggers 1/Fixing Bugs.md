@@ -2,6 +2,8 @@
 title: Fixing Bugs
 weight: 347
 date: 2023-08-31
+authors:
+- illusion2
 contributors:
 - notamoderatr
 - illusion2

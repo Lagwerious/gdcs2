@@ -1,6 +1,9 @@
 ---
 title: Static Objects
 weight: 109
+date: 2024-02-11
+authors:
+- xplode09
 contributors:
 - .tv_box.
 - xplode09

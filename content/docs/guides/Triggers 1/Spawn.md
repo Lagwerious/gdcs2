@@ -2,6 +2,9 @@
 title: Spawn
 weight: 334
 date: 2023-03-14
+authors:
+- komatic5
+- naem.less
 contributors:
 - komatic5
 - naem.less

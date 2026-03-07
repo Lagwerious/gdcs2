@@ -2,6 +2,8 @@
 title: Creating Decoration
 weight: 507
 date: 2024-07-19
+authors:
+- komatic5
 contributors:
 - galofuf
 - komatic5

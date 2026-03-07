@@ -2,6 +2,8 @@
 title: Keyframes
 weight: 311
 date: 2024-05-15
+authors:
+- theibra
 contributors:
 - theibra
 - komatic5

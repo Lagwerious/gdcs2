@@ -2,6 +2,8 @@
 title: Optimizing
 weight: 519
 date: 2023-06-26
+authors:
+- komatic5
 contributors:
 - creeperiv
 - komatic5

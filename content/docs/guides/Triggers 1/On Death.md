@@ -2,6 +2,8 @@
 title: On Death
 weight: 335
 date: 2023-03-14
+authors:
+- komatic5
 contributors:
 - komatic5
 draft: false

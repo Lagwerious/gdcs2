@@ -2,6 +2,8 @@
 title: Blending Masks
 weight: 516
 date: 2023-10-13
+authors:
+- Unknown
 contributors:
 - kde__
 - Unknown

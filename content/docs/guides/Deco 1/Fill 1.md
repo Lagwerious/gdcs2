@@ -1,9 +1,14 @@
 ---
 title: Fill 1
 weight: 504
+date: 2023-03-10
+authors:
+- artaire
+- komatic5
 contributors:
 - artaire
 - exotron1352
+- komatic5
 draft: false
 ---
 

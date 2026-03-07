@@ -2,6 +2,8 @@
 title: Making Loops
 weight: 607
 date: 2024-11-30
+authors:
+- tdp9
 contributors:
 - psytrancegd
 - tdp9

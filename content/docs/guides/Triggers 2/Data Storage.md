@@ -2,6 +2,8 @@
 title: Data Storage
 weight: 614
 date: 2024-07-31
+authors:
+- v1ewsh0t
 contributors:
 - komatic5
 - v1ewsh0t

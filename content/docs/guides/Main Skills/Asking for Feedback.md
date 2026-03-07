@@ -1,6 +1,9 @@
 ---
 title: Asking for Feedback
 weight: 204
+date: 2023-03-09
+authors:
+- komatic5
 contributors:
 - komatic5
 draft: false

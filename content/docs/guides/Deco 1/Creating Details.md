@@ -2,6 +2,8 @@
 title: Creating Details
 weight: 506
 date: 2024-05-15
+authors:
+- komatic5
 contributors:
 - komatic5
 - sparktwee

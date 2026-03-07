@@ -2,6 +2,8 @@
 title: Animate
 weight: 319
 date: 2024-01-25
+authors:
+- naem.less
 contributors:
 - naem.less
 - notamoderatr

@@ -2,6 +2,8 @@
 title: Sync & Rhythm
 weight: 708
 date: 2025-11-15
+authors:
+- kde__
 contributors:
 - kde__
 - komatic5
