@@ -77,7 +77,7 @@
     </button>
 
     <!-- Main navigation -->
-    <div class="offcanvas offcanvas-end h-auto" tabindex="-1" id="offcanvasNavMain" aria-labelledby="offcanvasNavMainLabel">
+    <div class="offcanvas offcanvas-end h-auto" style="width: 160px;" tabindex="-1" id="offcanvasNavMain" aria-labelledby="offcanvasNavMainLabel">
       {{ if site.Params.doks.headerBar -}}
         <div class="header-bar d-lg-none"></div>
       {{ end -}}
@@ -151,7 +151,6 @@
 
         <!-- Language dropdown -->
         {{ if eq site.Params.doks.multilingualMode true -}}
-
         <div class="dropdown mt-1 order-lg-2">
           <button class="btn btn-dropdown dropdown-toggle" id="doks-languages" data-bs-toggle="dropdown" aria-expanded="false" data-bs-display="static">
             <span class="dropdown-caret">
@@ -248,7 +247,6 @@
           {{ end -}}
         </ul>
         {{ end -}}
-
 
         <!-- Navbar button mobile -->
         {{ if site.Params.doks.navBarButton -}}

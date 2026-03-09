@@ -24,7 +24,7 @@
   <div class="col-lg-9">
     {{ $paginator := .Paginate (.Data.Pages) -}}
     {{ range $paginator.Pages -}}
-      <div class="card">
+      <div class="card mt-2">
         {{ if site.Params.doks.imageList -}}
           {{- $images := .Resources.ByType "image" -}}
           {{- $featured := $images.GetMatch "*feature*" -}}
