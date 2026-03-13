@@ -33,7 +33,7 @@ When you first create a new level, or exit from the editor, you will be directed
 
 Notice the three big buttons at the center. From left to right, the tools button leads you to the editor, the yellow play button puts you in the level, and the red curvy arrow button is the upload button that will allow you to share your level.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1P3Ljtx9_CrtxT6amGPs8IeJK8KW0G3JI" >}}
 
 # 2: Level Name and Description
 
@@ -53,7 +53,7 @@ Once you press the red upload button, it will lead you to another checkbox to co
 
 You can request stars to help players know what difficulty to expect.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1AUzk1zx1pgzYIe_wUHqa4xddEYnuZj7V" >}}
 
 On the top right, you can see a gear which leads you to the other three elements.
 
@@ -63,7 +63,7 @@ Ticking Requires Password will lock the level by a passcode-protected keypad. If
 
 If you choose to upload your level as “Unlisted”, you’ll only allow your GD Friends to play the level, as long as you also give them the level ID. This is how creators can collab with each other and merge their parts.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/19QA-zcQbgkWj1BClzlP_CLxgQq0tLda5" >}}
 
 If you successfully upload your level, you will receive the official level ID that you can use to find it in the search bar (before that, the ID would show “NA”). Public levels will also be accessible through https://gdbrowser.com, while unlisted levels are not.
 
@@ -103,3 +103,5 @@ Example: <cr>Hello level!</c>
 `cj` for Cyan (#00FFFF)
 `co` for Orange (#FF7F00)
 `cp` for Purple (#CC8899)
+
+{{< img src="https://lh3.googleusercontent.com/d/1RsYDyh7MMiL8N_0XrafLP-8Dmoy_Y_9o" >}}
